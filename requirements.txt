@@ -11,7 +11,7 @@ async-timeout==4.0.3
 asyncssh==2.14.2
 atpublic==4.1.0
 attrs==23.2.0
-AutoTS==0.5.3
+AutoTS>=0.5.3,<0.6.22
 billiard==4.2.0
 blinker==1.6.2
 celery==5.4.0
